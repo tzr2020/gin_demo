@@ -12,7 +12,7 @@ type Todo struct {
 }
 
 /*
-	Todo Model对应的数据库表CRUD操作函数
+	Todo Model对应的数据库表CURD操作函数
 */
 
 func CreateTodo(todo *Todo) (err error) {
